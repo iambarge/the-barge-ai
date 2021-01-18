@@ -2,16 +2,23 @@
 **THE BARGE** is a repository for all the AI related projects I have done for academic, professional, self-learning and hobby purposes.
 
 As an Automation Engineer and AI enthusiast, during my career I had the opportunity to practice different sub-fields of Artificial Intelligence. Therefore, **THE BARGE** is arranged in different *decks*: 
-- #### [Machine Learning](#machine-learning)
-- #### [Computer Vision](#computer-vision)
-- #### [Autonomous Systems](#autonomous-systems)
+- #### [Machine Learning Projects](#machine-learning)
+- #### [Computer Vision Projects](#computer-vision)
+- #### [Autonomous Systems Projects](#autonomous-systems)
 
 ### Welcome on board!! :ship: :whale:
 
 ![The Barge AI](resources/images/the_barge_AI_project_dark.png) 
 
-## Machine Learning
+## Machine Learning Projects
 
-## Computer Vision
+<img align="left" width="250" height="150" src="resources/images/the_barge_AI_project_light.png"> **[Project Title](https://github.com/iambarge/the-barge-ai)**
 
-## Autonomous Systems
+Brief Project Description.
+
+Possibly 2-3 lined for correct spacing.
+#
+
+## Computer Vision Projects
+
+## Autonomous Systems Projects
