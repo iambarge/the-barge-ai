@@ -6,6 +6,18 @@ As an Automation Engineer and AI enthusiast, during my career I had the opportun
 - [**Computer Vision Projects**](#computer-vision-projects)
 - [**Autonomous Systems Projects**](#autonomous-systems-projects)
 
+If you have any question on the featured projects or if you are interested in activating a collaboration do not exitate to email me at bargellesi.n@gmail.com. Alternatively you can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/iambarge_
+[2]: https://www.linkedin.com/in/nicolo-bargellesi/
+
 ### Welcome on board!! :ship: :whale:
 
 ![The Barge AI](resources/images/the_barge_AI_project_dark.png) 
