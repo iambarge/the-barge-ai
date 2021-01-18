@@ -1,5 +1,5 @@
 # :ship: THE BARGE
-**THE BARGE** is a repository for all the AI related projects I have done for academic, professional, self-learning and hobby purposes.
+**THE BARGE** is a portfolio repository for all the AI related projects I have done for academic, professional, self-learning and hobby purposes.
 
 As an Automation Engineer and AI enthusiast, during my career I had the opportunity to practice different sub-fields of Artificial Intelligence. Therefore, **THE BARGE** is arranged in different *decks*: 
 - [**Machine Learning Projects**](#machine-learning-projects)
