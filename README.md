@@ -6,7 +6,7 @@ As an Automation Engineer and AI enthusiast, during my career I had the opportun
 - [**Computer Vision Projects**](#computer-vision-projects)
 - [**Autonomous Systems Projects**](#autonomous-systems-projects)
 
-If you have any question on the featured projects or if you are interested in activating a collaboration do not exitate to email me at bargellesi.n@gmail.com. Alternatively, you can find me on [<img src="resources/images/twitter_icon.png" width="16" height="16">][1] or on [<img src="resources/images/linkedin_icon.png" width="16" height="16">][2].
+If you have any question on the featured projects or if you are interested in activating a collaboration do not exitate to write me at bargellesi.n@gmail.com or on [<img src="resources/images/linkedin_icon.png" width="16" height="16">][2].
 
 <!-- Links to your social media accounts -->
 
