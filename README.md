@@ -11,11 +11,11 @@ If you have any question on the featured projects or if you are interested in ac
 ### :whale: Welcome on board!
 
 
-![The Barge AI](resources/images/the_barge_AI_project_dark.png) 
+![The Barge AI](src/the_barge_AI_project_dark.png) 
 
 ## Machine Learning Projects
 
-<img align="left" width="250" height="150" src="resources/images/the_barge_AI_project_light.png"> **[Project Title](https://github.com/iambarge/the-barge-ai)**
+<img align="left" width="250" height="150" src="src/the_barge_AI_project_light.png"> **[Project Title](https://github.com/iambarge/the-barge-ai)**
 
 Brief Project Description.
 
