@@ -22,8 +22,6 @@ If you have any question on the featured projects or if you are interested in ac
 
 Coin identification and recognition can significantly enhance the functions of vending machines, pay phone systems and coin counting machines. The primary purpose of this project is to develop a detector capable of finding and classifying Euro coins in images purely relying on CV frameworks.
 
-###
-
-###
+##
 
 ## Autonomous Systems Projects
