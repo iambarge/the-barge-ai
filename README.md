@@ -20,7 +20,7 @@ If you have any question on the featured projects or if you are interested in ac
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
 
-Coin identification and recognition can significantly enhance the functions of vending machines, pay phone systems and coin counting machines. The primary purpose of this project is to develop a detector capable of finding and classifying Euro coins in images purely relying on Computer Vision based frameworks.
+Coin identification and recognition can significantly enhance the functions of vending machines, pay phone systems and coin counting machines. The primary purpose of this project is to develop a detector capable of finding and classifying Euro coins in images purely relying on CV frameworks.
 
 
 ## Autonomous Systems Projects
