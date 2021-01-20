@@ -15,13 +15,12 @@ If you have any question on the featured projects or if you are interested in ac
 
 ## Machine Learning Projects
 
-<img align="left" width="250" height="150" src="src/the_barge_AI_project_light.png"> **[Project Title](https://github.com/iambarge/the-barge-ai)**
-
-Brief Project Description.
-
-Possibly 2-3 lined for correct spacing.
-#
-
 ## Computer Vision Projects
+<img align="left" width="250" src="https://raw.githubusercontent.com/iambarge/CV-coins-project/main/data/img2.jpg"> **[Coin Detection and Classification using CV-based Strategies](https://github.com/iambarge/CV-coins-project)** \
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
+
+Coin identification and recognition systems may drammatically enhance the extended operation of vending machines, pay phone systems and coin counting machines. The primary purpose of this project is to develop a detector capable of finding and classifying Euro coins in images purely relying on Computer Vision based frameworks.
+
 
 ## Autonomous Systems Projects
