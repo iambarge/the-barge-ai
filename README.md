@@ -29,3 +29,5 @@ Coin identification and recognition can significantly enhance the functions of v
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matrix&logoColor=white&color=orange)
 
 Multi-Camera surveillance systems are being increasingly used to enhance safety and security and the possibility to mount cameras on Unmanned Aerial Vehicles (UAVs) extends their capabilities to a whole new level. The aim of this project is to find a possible solution to the Interactive Surveillance problem using multiple UAV mounted cameras.
+
+##
