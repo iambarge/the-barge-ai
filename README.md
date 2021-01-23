@@ -14,7 +14,7 @@ If you have any question on the featured projects or if you are interested in ac
 ![The Barge AI](src/the_barge_AI_project_dark.png) 
 
 ## Machine Learning Projects
-<img align="left" width="250" height="180" src="https://raw.githubusercontent.com/iambarge/GR-project/main/src/tracce3D.png"> **[A Random Forest-based Approach for Hand Gesture recognition](https://github.com/iambarge/GR-project)** \
+<img align="left" width="250" src="https://raw.githubusercontent.com/iambarge/GR-project/main/src/tracce3D.png"> **[A Random Forest-based Approach for Hand Gesture recognition](https://github.com/iambarge/GR-project)** \
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matrix&logoColor=white&color=orange)
 
 Gesture Recognition has a prominent importance in smart environment and home automation. In this project we propose a Random Forest-based approach for hand Gesture Recognition starting from wireless wearable motion capture data.
