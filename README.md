@@ -34,6 +34,6 @@ Coin identification and recognition can significantly enhance the functions of v
 <img align="left" width="250" height="180" src="https://raw.githubusercontent.com/iambarge/NC4MAS-security-drones-project/main/src/swarm-drones.jpg"> **[Interactive Surveillance Using a UAV Mounted Camera Network](https://github.com/iambarge/NC4MAS-security-drones-project)** \
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matrix&logoColor=white&color=orange)
 
-Multi-Camera surveillance systems are being increasingly used to enhance safety and security and the possibility to mount cameras on Unmanned Aerial Vehicles (UAVs) extends their capabilities to a whole new level. The aim of this project is to find a possible solution to the Interactive Surveillance problem using multiple UAV mounted cameras.
+Multi-Camera surveillance systems are being increasingly used to enhance safety and security and the possibility to mount cameras on Unmanned Aerial Vehicles (UAVs) extends their capabilities to a whole new level. This project aims to find a solution to the Interactive Surveillance problem using multiple UAV mounted cameras.
 
 ##
