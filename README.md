@@ -21,6 +21,14 @@ Gesture Recognition has a prominent importance in smart environment and home aut
 
 ##
 
+<img align="left" width="270" height="175" src="src/AutoSS.png"> **[AutoSS: A Deep Learning-Based Soft Sensor for Handling Time-Series Input Data](https://ieeexplore.ieee.org/document/9461648)** \
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
+
+By exploiting autoencoders, dilated convolutions and an ad-hoc defined architecture, AutoSS allows to develop effective soft sensing modules without any kind of human intervention, even with time-series input data.
+
+##
+
 ## Computer Vision Projects
 <img align="left" width="270" height="175" src="https://raw.githubusercontent.com/iambarge/CV-coins-project/main/data/img2.jpg"> **[Coin Detection and Classification using CV-based Strategies](https://github.com/iambarge/CV-coins-project)** \
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=orange)
